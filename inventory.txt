@@ -1,0 +1,6 @@
+001,Rv Album,800,363
+002,Twice LS,300,187
+003,Stayc Album,1500,100
+004,BP tickets,2000,1
+005,G-idle Album,1500,40
+006,Stayc LS,2000,80
